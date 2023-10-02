@@ -1,0 +1,60 @@
+.header {
+background: #FFF;
+display: flex;
+flex-direction: space-between;
+width: 100%;
+padding: 24px 100px;
+align-items: center;
+gap: 339px;
+}
+
+.logo{
+display: flex;
+align-items: center;
+gap: 10px;
+}
+
+.logo span{
+color: var(--primary-primary-600, #100A42);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.navlinks {
+display: flex;
+padding: 10px 10px;
+justify-content: center;
+align-items: center;
+gap: 40px;
+}
+
+.navlinks p{
+color: #000;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+cursor: pointer;
+}
+
+.get-started{
+display: flex;
+justify-content: center;
+align-items: center;
+text-decoration: none;
+}
+
+
+.get-started span{
+color: var(--primary-main, #120B48);
+text-align: center;
+font-family: Sora;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
