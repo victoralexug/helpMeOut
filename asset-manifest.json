@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/helpMeOut/static/css/main.89904d08.css",
-    "main.js": "/helpMeOut/static/js/main.9784b1b7.js",
+    "main.css": "/helpMeOut/static/css/main.30e9976e.css",
+    "main.js": "/helpMeOut/static/js/main.8d8415d3.js",
     "static/media/woman-2.png": "/helpMeOut/static/media/woman-2.d4a182a5467fa04a6896.png",
     "static/media/AdobeStock_man.png": "/helpMeOut/static/media/AdobeStock_man.d7f9fc1bbed8db53c0aa.png",
     "static/media/AdobeStock1.png": "/helpMeOut/static/media/AdobeStock1.5ccde1ea6c9887ab34ee.png",
     "static/media/Video Repository.png": "/helpMeOut/static/media/Video Repository.eacccb66b0c31a673255.png",
     "static/media/rec-preview.svg.png": "/helpMeOut/static/media/rec-preview.svg.ad14b14023630d7b9dd9.png",
     "index.html": "/helpMeOut/index.html",
-    "main.89904d08.css.map": "/helpMeOut/static/css/main.89904d08.css.map",
-    "main.9784b1b7.js.map": "/helpMeOut/static/js/main.9784b1b7.js.map"
+    "main.30e9976e.css.map": "/helpMeOut/static/css/main.30e9976e.css.map",
+    "main.8d8415d3.js.map": "/helpMeOut/static/js/main.8d8415d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.89904d08.css",
-    "static/js/main.9784b1b7.js"
+    "static/css/main.30e9976e.css",
+    "static/js/main.8d8415d3.js"
   ]
 }
